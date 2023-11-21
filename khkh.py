@@ -3,7 +3,7 @@ def popp():
 
 
 def no():
-    print('for what?')
+    print('for ершы')
 
 
 popp()
